@@ -4,7 +4,7 @@ A modern, feature-rich Learning Management System built with Next.js 15, Sanity 
 
 ## Features
 
-### For Students
+
 
 - 📚 Access to comprehensive course content
 - 📊 Real-time progress tracking
@@ -49,15 +49,6 @@ A modern, feature-rich Learning Management System built with Next.js 15, Sanity 
 - 💫 Micro-interactions for better engagement
 - 🌙 Dark/Light mode toggle
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+
-- npm/yarn
-- Stripe Account
-- Clerk Account
-- Sanity Account
 
 ### Environment Variables
 
@@ -293,41 +284,5 @@ npm run sanity:dev
 - Progress indicators
 - Toast notifications
 - Modal dialogs
-
-## Join the World's Best Developer Course & Community Zero to Full Stack Hero! 🚀
-
-### Want to Master Modern Web Development?
-
-This project was built as part of the [Zero to Full Stack Hero](https://www.papareact.com/course) course. Join thousands of developers and learn how to build projects like this and much more!
-
-#### What You'll Learn:
-
-- 📚 Comprehensive Full Stack Development Training
-- 🎯 50+ Real-World Projects
-- 🤝 Access to the PAPAFAM Developer Community
-- 🎓 Weekly Live Coaching Calls
-- 🤖 AI & Modern Tech Stack Mastery
-- 💼 Career Guidance & Interview Prep
-
-#### Course Features:
-
-- ⭐ Lifetime Access to All Content
-- 🎯 Project-Based Learning
-- 💬 Private Discord Community
-- 🔄 Regular Content Updates
-- 👥 Peer Learning & Networking
-- 📈 Personal Growth Tracking
-
-[Join Zero to Full Stack Hero Today!](https://www.papareact.com/course)
-
-## Support
-
-For support, join our Discord community or email support@example.com
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
----
 
 Built with ❤️ using Next.js, Sanity, Clerk, and Stripe
